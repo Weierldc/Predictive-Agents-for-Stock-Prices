@@ -28,7 +28,8 @@
 然后运行 BestModel.py 文件，这个运行的时间可能会有点长，再运行 api.py 文件，访问其运行返回的网址，即可使用本项目基础功能。
 
 附运行截图：
-<img width="2556" height="1272" alt="676499d3b8882d24d9753ddce1b53251" src="https://github.com/user-attachments/assets/188cccee-4377-4539-ad45-c7061fc28e5d" />
+<img width="1636" height="1414" alt="042ede750ba4d39a9d1d738f18b41a6a" src="https://github.com/user-attachments/assets/1a2daac7-a3d1-473c-a3fa-54f82b3dd9a3" />
+
 
 ## 前端说明：
 前端可以直接输入股票代码并选择具体行业类别，采用哪个模型进行预测与行业类别强相关，两个蓝色按钮：“开始预测”是直接调用picture文件夹下生成好的价格预测图，训练模型是调用模型进行训练然后将价格预测图保存到picture文件夹下。
